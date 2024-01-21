@@ -1,0 +1,1 @@
+How can I position my mobile menu to cover the entire website or app body, including the scrollbar, while ensuring that the website or app's scrollbar is disabled or invisible when the mobile menu is opened? The mobile menu can either start from below the header or cover the header.
